@@ -39,15 +39,16 @@
 ├── extrator.py     # Script principal do projeto
 ├── README.md       # Documentação
 └── requirements.txt# Dependências do projeto
+```
 
 ---
 
 
 ## 🚀 Como usar
 
+```bash
 1. **Clone o repositório:**
 
-```bash
 git clone https://github.com/Theus750/Extractor-Renpy.git
 cd seu-repo
 python -m venv venv
@@ -59,9 +60,11 @@ python -m venv venv
 source venv/bin/activate
 
 pip install -r requirements.txt
+```
 
 ---
 
+```bash
 
 ## 🧪 Exemplos de uso
 
@@ -71,11 +74,15 @@ python extrator.py "C:\Jogo\game\scripts"  "destino\dos\arquivos"
 
 "destino\dos\arquivos"
 
+```
+
+---
+
 ##🤝 Contribuições
 Sinta-se à vontade para abrir issues e enviar pull requests.
 Sugestões de melhorias, correções e novas funcionalidades são sempre bem-vindas.
 
-
+---
 
 ### 📌 Roadmap
 
