@@ -29,16 +29,16 @@
 
 ---
 
-## 📂 Estrutura do projeto
+### 📁 Estrutura do projeto
 
-
-├── Output/ # Arquivos de saída extraídos
-├── Utils/ # Funções auxiliares (handlers, helpers, etc.)
-├── venv/ # Ambiente virtual Python
-├── .gitignore # Arquivos ignorados pelo Git
-├── extrator.py # Script principal do projeto
-├── README.md # Documentação
-└── requirements.txt # Dependências do projeto
+```bash
+├── Output/         # Arquivos de saída extraídos
+├── Utils/          # Funções auxiliares (handlers, helpers, etc.)
+├── venv/           # Ambiente virtual Python
+├── .gitignore      # Arquivos ignorados pelo Git
+├── extrator.py     # Script principal do projeto
+├── README.md       # Documentação
+└── requirements.txt# Dependências do projeto
 
 ---
 
