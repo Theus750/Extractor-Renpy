@@ -1,6 +1,8 @@
 # 🐍 Extrator Ren’Py
 
-📌 **Objetivo**: Estudar **Python** e **Ren’Py**, criando uma ferramenta para **extrair e decompilar arquivos `.rpyc`** utilizando `unrepyc` e `rpycdec`.  
+📌 **Objetivo**: Estudar **Python** e **Ren’Py**, criando uma ferramenta para **extrair e decompilar arquivos `.rpyc`** utilizando `unrepyc` e `rpycdec`. 
+Este é um projeto pessoal com o objetivo de aprofundar meus conhecimentos em **Python** e no motor de visual novels **Ren'Py**.  
+Utilizo ferramentas como `unrepyc` e `rpycdec` para explorar e manipular arquivos `.rpyc`, comuns em jogos Ren'Py compilados. 
 
 > ⚠️ Este projeto é **estritamente educacional** e não tem fins comerciais nem de modificação não autorizada de jogos.
 
