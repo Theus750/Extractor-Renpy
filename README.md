@@ -91,7 +91,7 @@ Sugestões de melhorias, correções e novas funcionalidades são sempre bem-vin
 Abaixo estão os planos de evolução deste projeto:
 
 - [ ] ❌ **Adicionar suporte a múltiplas pastas de entrada**  
-  Permitir que o usuário informe várias pastas contendo arquivos `.rpyc` de uma vez só.
+  Permitir que o usuário informe várias pastas contendo arquivos `.rpyc` de uma vez só..
 
 - [ ] ❌ **Criar interface de linha de comando (CLI)**  
   Usar bibliotecas como `argparse` ou `click` para permitir uso mais flexível via terminal.
